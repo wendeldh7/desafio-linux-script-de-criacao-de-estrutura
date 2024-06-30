@@ -11,5 +11,5 @@ O Linux não é novidade pra mim. Uso distros Unix no trabalho e em projetos pes
 
 🔋 Stack utilizada
 
-Linux Ubuntu 22.04.1 LTS (WSL)
-/bin/bash
+- Linux Ubuntu 22.04.1 LTS (WSL)
+- /bin/bash
